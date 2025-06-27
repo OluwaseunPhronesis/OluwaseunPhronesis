@@ -1,12 +1,11 @@
-### Hi there 👋 Welcome to my Profile
+👋 ### Hi there! Welcome to my GitHub Profile
+Thanks for stopping by! Here's a little about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on building my technical skill in Data Analysis track
-- 🌱 I’m currently learning Data analysis 
-- 👯 I’m looking to collaborate on everything Data Analysis and Project
-- 🤔 I’m looking for help with breaking technical concept
-- 💬 Ask me about my learning journey
+- 🔭 I’m a Certified Data Science learner currently working as a Quality Assurance Officer, blending real-world experience with a growing love for data.
+- 📊 Right now, I'm focused on building my skills in data analysis, machine learning, and all things data-driven.
+- 🤝Open to collaborations on Data Analysis projects, AI-driven solutions, and anything tech-focused
+- 🤝 Eager to connect with others who can simplify complex technical concepts
+- 💬 Feel free to ask me about my transition into data science or my learning journey so far. I’m always happy to connect and share!
 - 📫 How to reach me: https://twitter.com/
-- 😄 Pronouns: (SHE/HER)
-- ⚡ Fun fact: I Love Learning new things
+- 😄 Pronouns: She/Her
+- ⚡ I'm passionate about continuous learning and believe in growing one skill at a time!
