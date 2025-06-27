@@ -6,6 +6,6 @@ Thanks for stopping by! Here's a little about me:
 - 🤝Open to collaborations on Data Analysis projects, AI-driven solutions, and anything tech-focused
 - 🤝 Eager to connect with others who can simplify complex technical concepts
 - 💬 Feel free to ask me about my transition into data science or my learning journey so far. I’m always happy to connect and share!
-- 📫 How to reach me: https://twitter.com/
+- 📫 How to reach me: https://wa.me/message/5GMUQWDGJE2PB1, https://twitter.com/arowoseun69
 - 😄 Pronouns: She/Her
 - ⚡ I'm passionate about continuous learning and believe in growing one skill at a time!
